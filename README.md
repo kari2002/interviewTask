@@ -108,3 +108,6 @@ Zadanie będzie oceniane na podstawie:
 ---
 
 💡 Powodzenia! W razie pytań skontaktuj się z zespołem BiznesportTech.
+
+
+# test change for PR
